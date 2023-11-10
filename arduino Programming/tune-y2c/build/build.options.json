@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/home/kali/snap/arduino-cli/42/.arduino15/packages",
+  "otherLibrariesFolders": "/home/kali/snap/arduino-cli/42/Arduino/libraries",
+  "sketchLocation": "/home/kali/Documents/notes/y2/IOT/arduino Programming/tune-y2c"
+}

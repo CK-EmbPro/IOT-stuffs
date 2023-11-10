@@ -1,0 +1,32 @@
+[
+ {
+  "directory": "/home/kali/Documents/notes/y2/IOT/arduino Programming/tune-y2c",
+  "arguments": [
+   "/home/kali/snap/arduino-cli/42/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega328p",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_UNO",
+   "-DARDUINO_ARCH_AVR",
+   "-I/home/kali/snap/arduino-cli/42/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino",
+   "-I/home/kali/snap/arduino-cli/42/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard",
+   "/home/kali/Documents/notes/y2/IOT/arduino Programming/tune-y2c/build/sketch/tune-y2c.ino.cpp",
+   "-o",
+   "/home/kali/Documents/notes/y2/IOT/arduino Programming/tune-y2c/build/sketch/tune-y2c.ino.cpp.o"
+  ],
+  "file": "/home/kali/Documents/notes/y2/IOT/arduino Programming/tune-y2c/build/sketch/tune-y2c.ino.cpp"
+ }
+]

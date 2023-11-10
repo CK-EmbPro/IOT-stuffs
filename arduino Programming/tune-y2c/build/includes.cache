@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/kali/snap/arduino-cli/42/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/kali/snap/arduino-cli/42/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/home/kali/Documents/notes/y2/IOT/arduino Programming/tune-y2c/build/sketch/tune-y2c.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
